@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/gtest_xml_output_unittest_.dir/test/gtest_xml_output_unittest_.cc.o  -o gtest_xml_output_unittest_ libgtest.a -pthread 

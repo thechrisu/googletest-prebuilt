@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/gmock_link_test.dir/test/gmock_link_test.cc.o CMakeFiles/gmock_link_test.dir/test/gmock_link2_test.cc.o  -o gmock_link_test libgmock_main.a -pthread 

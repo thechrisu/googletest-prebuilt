@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/gtest-printers_test.dir/test/gtest-printers_test.cc.o  -o gtest-printers_test libgtest_main.a libgtest.a -pthread 

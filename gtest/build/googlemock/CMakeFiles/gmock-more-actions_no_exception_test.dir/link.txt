@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/gmock-more-actions_no_exception_test.dir/test/gmock-more-actions_test.cc.o  -o gmock-more-actions_no_exception_test libgmock_main_no_exception.a -pthread 

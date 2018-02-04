@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/gtest-options_test.dir/test/gtest-options_test.cc.o  -o gtest-options_test libgtest_main.a libgtest.a -pthread 

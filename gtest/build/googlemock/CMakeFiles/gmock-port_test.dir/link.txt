@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/gmock-port_test.dir/test/gmock-port_test.cc.o  -o gmock-port_test libgmock_main.a -pthread 

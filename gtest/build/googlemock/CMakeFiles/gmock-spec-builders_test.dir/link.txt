@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/gmock-spec-builders_test.dir/test/gmock-spec-builders_test.cc.o  -o gmock-spec-builders_test libgmock_main.a -pthread 

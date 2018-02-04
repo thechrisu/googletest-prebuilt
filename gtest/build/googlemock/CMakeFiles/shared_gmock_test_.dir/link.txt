@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/shared_gmock_test_.dir/test/gmock-spec-builders_test.cc.o  -o shared_gmock_test_ -Wl,-rpath,/home/travis/build/culshoefer/trains/test/googletest/build/googlemock libshared_gmock_main.so -pthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/gmock_use_own_tuple_test.dir/test/gmock-spec-builders_test.cc.o  -o gmock_use_own_tuple_test libgmock_main_use_own_tuple.a -pthread 

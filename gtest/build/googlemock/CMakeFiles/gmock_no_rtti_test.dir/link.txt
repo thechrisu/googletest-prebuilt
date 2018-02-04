@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/gmock_no_rtti_test.dir/test/gmock-spec-builders_test.cc.o  -o gmock_no_rtti_test libgmock_main_no_rtti.a -pthread 

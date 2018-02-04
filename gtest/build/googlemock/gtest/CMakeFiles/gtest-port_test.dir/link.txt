@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/gtest-port_test.dir/test/gtest-port_test.cc.o  -o gtest-port_test libgtest_main.a libgtest.a -pthread 

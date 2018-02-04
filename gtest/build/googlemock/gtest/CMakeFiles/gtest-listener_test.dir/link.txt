@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/gtest-listener_test.dir/test/gtest-listener_test.cc.o  -o gtest-listener_test libgtest_main.a libgtest.a -pthread 

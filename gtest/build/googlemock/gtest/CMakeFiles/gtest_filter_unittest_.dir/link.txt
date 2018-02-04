@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/gtest_filter_unittest_.dir/test/gtest_filter_unittest_.cc.o  -o gtest_filter_unittest_ libgtest.a -pthread 

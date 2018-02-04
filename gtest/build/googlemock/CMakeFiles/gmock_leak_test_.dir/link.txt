@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/gmock_leak_test_.dir/test/gmock_leak_test_.cc.o  -o gmock_leak_test_ libgmock_main.a -pthread 

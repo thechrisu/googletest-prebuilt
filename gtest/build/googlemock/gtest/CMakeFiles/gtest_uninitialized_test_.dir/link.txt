@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/gtest_uninitialized_test_.dir/test/gtest_uninitialized_test_.cc.o  -o gtest_uninitialized_test_ libgtest.a -pthread 

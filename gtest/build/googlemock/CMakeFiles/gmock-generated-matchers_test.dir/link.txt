@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/gmock-generated-matchers_test.dir/test/gmock-generated-matchers_test.cc.o  -o gmock-generated-matchers_test libgmock_main.a -pthread 
